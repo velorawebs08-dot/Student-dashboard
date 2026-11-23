@@ -1,0 +1,6 @@
+{
+  "name": "Patil Classes — Parent Marks Portal",
+  "description": "Mobile-first parent marks portal and teacher dashboard for Patil Classes 10th Standard tuition.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
